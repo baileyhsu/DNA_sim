@@ -1,5 +1,5 @@
-# DNA_sim
-Y-Shape NiDNA Device IV characteristics (Trial)
+# Y-Shape NiDNA Device IV characteristics (Trial)
+Basic Idea
 
 In this work, we use Mathematica to simulate the current-voltage characteristics of a Y-shape Ni-DNA device, meaning there are three segments in the device and each segment consists of different numbers of Ni2+ and Ni3+. Different from the simple 2-terminal case, three terminal can be a very interesting case to study, as the change in one leg can indirectly affect the Ni2+/Ni3+ ratio and thus affect the I-V characteristic.
 
