@@ -5,5 +5,8 @@ In this work, we use Mathematica to simulate the current-voltage characteristics
 
 We use 3 coupled partial differential equations to solve for the numbers of Ni2+ and Ni3+ in terms of time. Once that is done, we can plot the I-V characteristic of each segment, eg. 1-2, 2-3, or 3-1.
 
+Note that we include the diffusion parts in the coupled equations and the diffusion constant is approximated by the number we obtain from the literature (Ionic Diffusion Coefficients of Cs+, Pb2+,Sm3+,Ni2+, SeOz- and TcO, in Free Water Determined
+from Conductivity Measurements, Journal of Nuclear Science and Technology, 33:12, 950-955)
+
 
 
